@@ -1,6 +1,13 @@
 [submodule "00-Libft"]
 	path = 00-Libft
 	url = https://github.com/fyetJP/00-Libft.git
+	branch = origin
+	update = merge
 [submodule "01-Get_Next_Line"]
 	path = 01-Get_Next_Line
 	url = git@github.com:fyetJP/01-Get_Next_Line.git
+	branch = origin
+	update = merge
+[submodule "02-Ft_Printf"]
+	path = 02-Ft_Printf
+	url = git@github.com:fyetJP/02-Ft_Printf.git
