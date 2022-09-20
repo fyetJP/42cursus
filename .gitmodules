@@ -13,3 +13,6 @@
 	url = git@github.com:fyetJP/02-Ft_Printf.git
 	branch = origin
 	update = merge
+[submodule "03-Push_Swap"]
+	path = 03-Push_Swap
+	url = git@github.com:fyetJP/03-push_swap.git
